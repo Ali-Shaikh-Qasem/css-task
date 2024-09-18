@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+}
+h1{
+    margin: 40px;
+
+}
+.products{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item{
+    margin: 5px;
+    width: 25%;
+    height: 50%;
+    border: 2px whitesmoke solid;
+    float: left;
+}
+img{
+    width: 240px;
+    height: 170px;
+    padding: 5px;
+}
+.price{
+    padding-top: 10px;
+}
+.price h3{
+    color: green;
+    float: left;
+}
+.buttons{
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    width: fit-content;
+    width: 240px;
+}
+.price h4{
+    color: red;
+    float: left;
+    margin-left: 5px;
+}
+.add{
+    background-color: blue ;
+    color: white;
+    float: left;
+    width: 70%;
+}
+.love{
+    margin-left: 5px ;
+    background-color: white ;
+    color: blue;
+    border: blue 2px solid; 
+    float: left;
+    width: 25%;
+}
+.clear{
+    clear: left;
+}
+.item p {
+    padding-top: 10px;
+}
